@@ -3,7 +3,7 @@
 <H3> NAME: TEJUSVE KABEER F</H3>
 <H3> REGISTER NUMBER: 212222100054 </H3>
 <H3> EXPERIMENT NO: 05 </H3>
-<H3> DATE:  </H3>
+<H3> DATE:13/09/24 </H3>
 
 <H3>Aim:</H3> To Construct a Python Code to implement the Kalman filter to predict the position and velocity of an object.
 <H3>Algorithm:</H3>
